@@ -17,7 +17,6 @@ module.exports = {
       DB_USER: 'u802453729_infonationalf',
       DB_PASSWORD: '&QGS7N*t',
       DB_NAME: 'u802453729_BOI',
-      DB_PORT: 3306,
       JWT_SECRET: 'your_jwt_secret_key_here_change_this',
       CORS_ORIGIN: '*'
     },
