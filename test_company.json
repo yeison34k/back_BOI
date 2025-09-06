@@ -1,0 +1,17 @@
+{
+  "companyLegalName": "Test Company LLC",
+  "alternateName": "Test Corp",
+  "companyPhone": "+1-555-123-4567",
+  "address": {
+    "street": "123 Main Street",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "zipCode": "19801"
+  },
+  "taxInformation": {
+    "taxIdentificationType": "EIN",
+    "taxIdentificationNumber": "123456789",
+    "countryJurisdiction": "United States"
+  },
+  "stateOfIncorporation": "Delaware"
+}
