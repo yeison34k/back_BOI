@@ -13,7 +13,7 @@ module.exports = {
     env_production: {
       NODE_ENV: 'production',
       PORT: 3010,
-      DB_HOST: 'srv407.hstgr.io',
+      DB_HOST: '45.89.204.6',
       DB_USER: 'u802453729_infonationalf',
       DB_PASSWORD: '&QGS7N*t',
       DB_NAME: 'u802453729_BOI',
